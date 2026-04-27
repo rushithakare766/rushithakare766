@@ -46,26 +46,51 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="left">⚙️ Data Engineering Tech Stack</h2>
 
-### 📊 Data Engineering
+<!-- Cloud -->
+<h3>☁️ Cloud & Platform</h3>
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-* BigQuery, Teradata
-* ETL Pipelines, Data Modeling
-* Data Validation & Migration
+<!-- Processing -->
+<h3>⚡ Data Processing</h3>
+<p>
+  <img src="https://img.shields.io/badge/Dataflow-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dataproc-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
 
-### ☁️ Cloud & Tools
+<!-- Streaming -->
+<h3>📡 Streaming & Messaging</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pub%2FSub-34A853?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-* Google Cloud Platform (GCP)
-* Apache Airflow (Cloud Composer)
-* Cloud Functions, Cloud Storage
+<!-- Orchestration -->
+<h3>🔄 Orchestration</h3>
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20Composer-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
 
-### 💻 Programming
+<!-- Languages -->
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-* Python
-* SQL
-* Pyspark
-
+<!-- Tools -->
+<h3>🛠️ Tools & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 ---
 
 ## 🔭 Currently Working On
