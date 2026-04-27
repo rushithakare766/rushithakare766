@@ -44,4 +44,56 @@
 ---
 
 
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Engineering
+
+* BigQuery, Teradata
+* ETL Pipelines, Data Modeling
+* Data Validation & Migration
+
+### ☁️ Cloud & Tools
+
+* Google Cloud Platform (GCP)
+* Apache Airflow (Cloud Composer)
+* Cloud Functions, Cloud Storage
+
+### 💻 Programming
+
+* Python
+* SQL
+* Pyspark
+
+---
+
+## 🔭 Currently Working On
+
+* Designing scalable data pipelines using Airflow
+* Improving SQL & query optimization skills
+* Preparing for Data Engineering system design interviews
+
+---
+
+## 📈 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushithakare766&show_icons=true&locale=en&layout=compact" alt="rushithakare766" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushithakare766&show_icons=true&locale=en" alt="rushithakare766" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushithakare766&" alt="rushithakare766" /></p>
+
+---
+
+## 📫 Let's Connect
+
+* 📧 Email: [thakrerushikesh21@gmail.com](mailto:thakrerushikesh21@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-thakare-515957205/
+
+---
+
+⭐ *Open to Data Engineering opportunities | Actively preparing for high-growth roles*
+
+
 
