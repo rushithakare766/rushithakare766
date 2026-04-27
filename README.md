@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Thakare</h1>
-<h3 align="center">A Data Engineer With 2+ year as a professional Experience</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushithakare766&label=Profile%20views&color=0e75b6&style=flat" alt="rushithakare766" /> </p>
+
+
+# 👋 Hi, I'm Rushikesh Thakare 
+
+### 🚀 Data Engineer |PYTHON | SQL | SPARK | GCP | Airflow | BigQuery
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushithakare766](https://github.com/rushithakare766)
 
